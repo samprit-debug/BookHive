@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"Land of Somalia",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    },
+
+    {
+        "id":2,
+        "name":"Story book",
+        "title":"Enthusiastic Emilie",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    },
+
+    {
+        "id":3,
+        "name":"Story book",
+        "title":"David's Slave",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    },
+
+    {
+        "id":4,
+        "name":"Food book",
+        "title":"Epic foods",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"Music book",
+        "title":"Sangeet Ka Samagam",
+        "price":40,
+        "category":"song",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"knowledge book",
+        "title":"History of Mughals",
+        "price":70,
+        "category":"knowledge",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"Comic book",
+        "title":"Tounge of TOM",
+        "price":50,
+        "category":"Funny",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    },
+    {
+        "id":8,
+        "name":"Travel book",
+        "title":"Roman Traveller",
+        "price":150,
+        "category":"Travelling",
+        "image":"https://img.freepik.com/free-vector/mexico-constitution-day-hand-drawn_23-2148794210.jpg?ga=GA1.1.228466374.1741201600&semt=ais_hybrid"
+    }
+
+
+]
+
