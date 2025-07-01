@@ -1,0 +1,53 @@
+[
+    {
+      "fullname": "Anirban Chatterjee",
+      "email": "anirban.chatterjee@example.com",
+      "password": "Anirban@123"
+    },
+    {
+      "fullname": "Sohini Mukherjee",
+      "email": "sohini.mukherjee@example.com",
+      "password": "Sohini@456"
+    },
+    {
+      "fullname": "Ritwik Das",
+      "email": "ritwik.das@example.com",
+      "password": "Ritwik@789"
+    },
+    {
+      "fullname": "Madhumita Roy",
+      "email": "madhumita.roy@example.com",
+      "password": "Madhumita@101"
+    },
+    {
+      "fullname": "Subhajit Bhattacharya",
+      "email": "subhajit.bhattacharya@example.com",
+      "password": "Subhajit@112"
+    },
+    {
+      "fullname": "Priyanka Saha",
+      "email": "priyanka.saha@example.com",
+      "password": "Priyanka@113"
+    },
+    {
+      "fullname": "Avijit Ghosh",
+      "email": "avijit.ghosh@example.com",
+      "password": "Avijit@114"
+    },
+    {
+      "fullname": "Swagata Banerjee",
+      "email": "swagata.banerjee@example.com",
+      "password": "Swagata@115"
+    },
+    {
+      "fullname": "Rajdeep Sen",
+      "email": "rajdeep.sen@example.com",
+      "password": "Rajdeep@116"
+    },
+    {
+      "fullname": "Taniya Chakraborty",
+      "email": "taniya.chakraborty@example.com",
+      "password": "Taniya@117"
+    }
+  ]
+  

@@ -25,7 +25,7 @@ function Banner() {
        
         </div>
 
-        <button className="btn btn-secondary mt-5">Secondary</button>
+        <button className="btn btn-secondary mt-5 shadow-2xl dark:shadow-2xl">Get Started</button>
         </div>
         <div className='order-1 md:order-2 w-full md:w-1/2'>
         <img src={book} className='w-9/12 h-9/12 mx-28 mt-28' alt="no image" />
